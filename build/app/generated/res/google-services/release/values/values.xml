@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">22206525424-7jmll9li8k8jlj4re2tktgnjnt3nkkb9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://p2pfds-ac6a0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">22206525424</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9NSRBd3ELyXJfyLBfbkvI7HK_stLdv7U</string>
+    <string name="google_app_id" translatable="false">1:22206525424:android:18a36abf696fffa3af7735</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9NSRBd3ELyXJfyLBfbkvI7HK_stLdv7U</string>
+    <string name="google_storage_bucket" translatable="false">p2pfds-ac6a0.appspot.com</string>
+    <string name="project_id" translatable="false">p2pfds-ac6a0</string>
+</resources>
